@@ -10,7 +10,7 @@ Hi, I'm Ina Ricci 👋. I am a full-stack developer currently living in Canada. 
 * 💻 HTML / CSS / JS
 * 🐍 Python
 * 🛢 SQL
-* 🔥 Firebasw
+* 🔥 Firebase
 
 
 ### Links
