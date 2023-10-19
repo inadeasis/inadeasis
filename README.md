@@ -2,7 +2,7 @@
 
 Hi, I'm Ina Ricci 👋.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeasis)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inadeasis&theme=dark&date_format=j%2Fn%5B%2FY%5D)]
 
 ### Skills
 * ⚛️ React
